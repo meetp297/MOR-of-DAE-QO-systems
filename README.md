@@ -1,5 +1,4 @@
 # MOR-of-DAE-QO-systems
-Algorithms for Model Order Reduction of Differential-Algebraic Systems with Quadratic Output
 Abstract: Model order reduction (MOR) is used to construct a low-rank approximation of a large-scale
 system. MOR of linear time-invariant (LTI) system is well established. Recently MOR of linear
 dynamical systems with quadratic output (LD-QO) has also been reported in the literature. In
